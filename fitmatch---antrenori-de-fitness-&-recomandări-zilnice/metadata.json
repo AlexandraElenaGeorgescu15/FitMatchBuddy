@@ -1,0 +1,6 @@
+{
+  "name": "FitMatch - Antrenori de Fitness & Recomandări Zilnice",
+  "description": "Platformă inteligentă de găsire a antrenorilor personali de fitness, chestionar de potrivire, dashboard cu recomandări zilnice și integrări n8n & Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
